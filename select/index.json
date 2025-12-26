@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Eve, Psyche & The Bluebeard's wife",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-26T12:28:41.608113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eve, Psyche & The Bluebeard’s wife",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/01_Eve,_Psyche_&_The_Bluebeard’s_wife_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eve, Psyche & The Bluebeard’s wife",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/02_Eve,_Psyche_&_The_Bluebeard’s_wife_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife (English Version)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/03_Eve,_Psyche_&_the_Bluebeard’s_wife_(English_Version)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife (English Ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/04_Eve,_Psyche_&_the_Bluebeard’s_wife_(English_Ver.)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife",
+      "artist": "LE SSERAFIM feat. UPSAHL",
+      "has_synced": true,
+      "path": "select/05_Eve,_Psyche_&_the_Bluebeard’s_wife_LE_SSERAFIM_feat._UPSAHL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife (feat. UPSAHL)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/06_Eve,_Psyche_&_the_Bluebeard’s_wife_(feat._UPSAHL)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eve, Psyche & The Bluebeard's wife",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/07_Eve,_Psyche_&_The_Bluebeard's_wife_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard's wife ft. UPSAHL",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/08_Eve,_Psyche_&_the_Bluebeard's_wife_ft._UPSAHL_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/09_Eve,_Psyche_&_the_Bluebeard’s_wife_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife (English Ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/10_Eve,_Psyche_&_the_Bluebeard’s_wife_(English_Ver.)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eve, Psyche & The Bluebeards Wife",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/11_Eve,_Psyche_&_The_Bluebeards_Wife_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife (English Ver",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/12_Eve,_Psyche_&_the_Bluebeard’s_wife_(English_Ver_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife (feat. Demi Lovato)",
+      "artist": "LE SSERAFIM feat. Demi Lovato",
+      "has_synced": true,
+      "path": "select/13_Eve,_Psyche_&_the_Bluebeard’s_wife_(feat._Demi_Lovato)_LE_SSERAFIM_feat._Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife (feat. Demi Lovato)",
+      "artist": "LE SSERAFIM, Demi Lovato",
+      "has_synced": true,
+      "path": "select/14_Eve,_Psyche_&_the_Bluebeard’s_wife_(feat._Demi_Lovato)_LE_SSERAFIM,_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard's wife (feat. Demi Lovato)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/15_Eve,_Psyche_&_the_Bluebeard's_wife_(feat._Demi_Lovato)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard’s wife (Rina Sawayama Remix)",
+      "artist": "LE SSERAFIM, Rina Sawayama",
+      "has_synced": true,
+      "path": "select/16_Eve,_Psyche_&_the_Bluebeard’s_wife_(Rina_Sawayama_Remix)_LE_SSERAFIM,_Rina_Sawayama.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Eve, Psyche and Bluebeard's Wife",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/17_Eve,_Psyche_and_Bluebeard's_Wife_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Eve, Psyche & The Bluebeard’s wife",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/18_Eve,_Psyche_&_The_Bluebeard’s_wife_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Eve, Psyche & the Bluebeard's wife (Rina Sawayama remix)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/19_Eve,_Psyche_&_the_Bluebeard's_wife_(Rina_Sawayama_remix)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eve, Psyche & The Bluebeard's wife",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Eve,_Psyche_&_The_Bluebeard's_wife_LE_SSERAFIM.txt"
+    }
+  ]
+}
