@@ -1,0 +1,86 @@
+# LE SSERAFIM – Eve, Psyche & The Bluebeard's wife
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.32] I'm a mess mess mess mess mess mess mess
+[00:09.16] I'm a mess mess mess mess mess mess mess
+[00:12.08] I'm a mess in distress but we're still the best dressed
+[00:15.50] Fearless say yes, we don't dress to impress
+[00:37.00] 
+[00:19.48] Tell me what you're waiting for
+[00:22.91] Cause I know what you wanna do
+[00:26.34] Picture perfect criminal
+[00:28.71] A little foul play won't burn your pretty face
+[00:32.71] Know you want to keep me close
+[00:36.78] But I got places I wanna go yeah
+[00:39.60] Good and evil give me more
+[00:42.35] Never hold back, I like it like that
+[01:00.35] 
+[00:46.26] Boom boom boom got my heartbeat pumping
+[00:49.45] Get it like boom boom boom
+[00:50.86] Get it like boom boom boom
+[00:52.19] Boom boom now
+[00:53.22] Boom boom boom got my heartbeat pumping
+[00:56.33] Get it like boom boom boom
+[00:57.44] Get it like boom boom boom
+[01:10.44] 
+[00:59.38] (Push it) I wish for what's forbidden
+[01:03.03] Get it like boom boom boom
+[01:04.31] Get it like boom boom boom
+[01:05.93] (Push it) I wish for what's forbidden
+[01:09.43] Get it like boom boom boom
+[01:10.99] Get it like boom boom boom
+[01:23.99] 
+[01:12.87] I'm a mess mess mess mess mess mess mess
+[01:15.76] I'm a mess mess mess mess mess mess mess
+[01:19.50] I'm a mess in distress but we're still the best dressed
+[01:22.63] Fearless say yes, we don't dress to impress
+[01:44.13] 
+[01:26.17] Zoom in zoom out smile bigger for the crowd
+[01:29.87] Shut up shut up now shut your feelings out
+[01:33.36] Keep it keep it down tell me I'm too loud
+[01:36.24] Better watch your mouth it comes back around
+[01:39.65] Hush, now, girl just close your eyes
+[01:43.35] They tell me "never cross the line" yeah
+[01:47.31] Forbidden fruit want a bite
+[01:49.56] Take it on the chain, I know I like that
+[02:09.56] 
+[01:53.28] Boom boom boom got my heartbeat pumping
+[01:56.61] Get it like boom boom boom
+[01:58.08] Get it like boom boom boom
+[01:59.35] Boom boom now
+[02:00.11] Boom boom boom got my heartbeat pumping
+[02:03.53] Get it like boom boom boom
+[02:04.61] Get it like boom boom boom
+[02:17.61] 
+[02:06.28] (Push it) I wish for what's forbidden
+[02:09.99] Get it like boom boom boom
+[02:11.29] Get it like boom boom boom
+[02:12.89] (Push it) I wish for what's forbidden
+[02:16.83] Get it like boom boom boom
+[02:18.24] Get it like boom boom boom
+[02:31.24] 
+[02:20.38] What you waiting for?
+[02:22.16] Show me what you're scared of
+[02:23.25] We fall fall fall
+[02:27.40] What you looking for
+[02:28.79] This is who we are now we fall we fall we fall
+[02:51.79] 
+[02:35.53] Boom boom boom got my heartbeat pumping
+[02:38.79] Get it like boom boom boom
+[02:40.06] Get it like boom boom boom
+[02:41.32] Boom boom now
+[02:42.41] Boom boom boom got my heartbeat pumping
+[02:45.32] Get it like boom boom boom
+[02:46.70] Get it like boom boom boom
+[02:48.57] Girl wanna have fun
+[02:49.35] Girl wanna have fun
+[02:52.85] Get it like boom boom boom
+[02:53.61] Get it like boom boom boom
+[03:06.61] 
+[02:54.95] Girl wanna have fun
+[02:56.81] Girl wanna have fun
+[02:59.28] Get it like boom boom boom
+[03:00.26] Get it like boom boom boom
+```
